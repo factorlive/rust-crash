@@ -6,11 +6,12 @@
 // mod arrays;
 // mod vectors;
 // mod conditionals;
-mod loops;
+// mod loops;
+// mod functions;
+// mod structs;
+// mod enums;
+mod cli;
 
 fn main() {
-    loops::run();
-    
-
-
+    cli::run();
 }
